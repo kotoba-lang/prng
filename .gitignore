@@ -1,0 +1,7 @@
+*.class
+.cpcache/
+.clj-kondo/.cache/
+target/
+node_modules/
+*.jar
+.nrepl-port

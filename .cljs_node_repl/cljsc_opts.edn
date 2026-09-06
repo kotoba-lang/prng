@@ -1,0 +1,1 @@
+{:output-dir ".cljs_node_repl", :target :nodejs, :optimizations :simple, :main kotoba.prng-cljs-verify, :output-to "target/cljs-verify.js", :aot-cache true}
