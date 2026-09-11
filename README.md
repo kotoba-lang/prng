@@ -47,8 +47,8 @@ algorithm.
 ## Build
 
 ```
-clojure -M:test   # JVM suite
-clojure -M:cljs && node target/cljs-verify.js   # ClojureScript portability
+kbb -M:test   # JVM suite
+kbb -M:cljs && node target/cljs-verify.js   # ClojureScript portability
 ```
 
 The shared LCG shape was first proven portable in `com-nvidia-isaac-lab`'s
